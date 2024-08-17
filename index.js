@@ -8,7 +8,15 @@ const port = process.env.PORT || 5000;
 
 // middle Ware
 
-app.use(cors());
+app.use(
+    cors({
+      origin: [
+        "http://localhost:5173",
+        "http://localhost:5174",
+        "https://timetrack-rasel.vercel.app"
+      ]
+    })
+  );
 app.use(express.json());
 
 
