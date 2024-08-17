@@ -42,7 +42,7 @@ async function run() {
         const watchCollection = client.db("TimeTrack").collection("watch");
 
 
-        // Watch All Data Show
+        // Watch All Data Show client side
         app.get("/watches", async (req, res) => {
             try {
                 const {
