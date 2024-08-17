@@ -1,10 +1,10 @@
 # TimeTrack Watch Collection Server
 
-**TimeTrack** is a watch collection application that allows users to browse, search, and filter through a wide range of watches. The application is designed with a focus on user experience, providing a seamless and interactive interface for watch enthusiasts.
+**TimeTrack** is a online gadget  collection application that allows users to browse, search, and filter through a wide range of watches. The application is designed with a focus on user experience, providing a seamless and interactive interface for online gadget  enthusiasts.
 
 ## Features
 
-- Browse watch collections by brand, category, and price range.
+- Browse online gadget  collections by brand, category, and price range.
 - Search functionality to find specific watches.
 - Filter options to narrow down search results.
 - Responsive design for all devices.
