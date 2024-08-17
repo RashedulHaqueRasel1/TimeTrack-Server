@@ -64,6 +64,7 @@ async function run() {
                 };
 
 
+                //  Low to High
                 let sortQuery;
                 if (sort === "lowToHigh") {
                     sortQuery = { price: 1 };
