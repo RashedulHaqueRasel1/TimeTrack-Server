@@ -20,12 +20,12 @@
 
 ## Live Demo
 
-Check out the live application [here](your-live-site-link).
+Check out the live application [here](https://timetrack-rasel.vercel.app).
 
 ## Repository Links
 
 ### Frontend Repository
-- GitHub: [TimeTrack Watch Collection Frontend](your-frontend-repository-link)
+- GitHub: [TimeTrack Watch Collection Frontend](https://github.com/RashedulHaqueRasel1/TimeTrack)
 
 ### Backend Repository
 - GitHub: [TimeTrack Watch Collection Backend](https://github.com/RashedulHaqueRasel1/TimeTrack-Server)
@@ -43,8 +43,6 @@ Check out the live application [here](your-live-site-link).
 
 - [Express](https://www.npmjs.com/package/express): Web framework for Node.js.
 - [Cors](https://www.npmjs.com/package/cors): Node.js middleware for enabling CORS.
-- [Body-Parser](https://www.npmjs.com/package/body-parser): Node.js body parsing middleware.
-- [JWT](https://www.npmjs.com/package/jsonwebtoken): JSON Web Token implementation for authentication.
 - [Axios](https://www.npmjs.com/package/axios): Promise-based HTTP client for Node.js and the browser.
 
 ## Getting Started
